@@ -18,12 +18,12 @@ Servo ser2;
 Servo ser3;
 Servo ser4;
 void setup() {
-ser1.attach(13); 
-ser2.attach(12); 
-ser3.attach(11); 
-ser4.attach(10); 
-Serial.begin(9600);
-count();
+  ser1.attach(13); 
+  ser2.attach(12); 
+  ser3.attach(11); 
+  ser4.attach(10); 
+  Serial.begin(9600);
+  count();
 }
 
 void loop() {
