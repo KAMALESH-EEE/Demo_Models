@@ -1,3 +1,3 @@
 # Demo Projects
 For Education
-https://github.com/KAMALESH-EEE/Vending_Machine
+https://github.com/KAMALESH-EEE/Demo_Models
