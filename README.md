@@ -1,3 +1,3 @@
 # Demo Projects
-For Education
+For Demo 
 https://github.com/KAMALESH-EEE/Demo_Models
